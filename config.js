@@ -4,28 +4,28 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['22507XXXXXXXX','22507xxxx'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['LAKSH-MD','LAKSH'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
+    botName: '𝐋𝐀𝐊𝐒𝐇 𝐌𝐃',
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
+    newsletterJid: '120363422887304780@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot Mini',
+    packname: '𝐋𝐀𝐊𝐒𝐇 𝐌𝐃',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
-    autoRead: false,
-    autoTyping: false,
-    autoBio: false,
+    autoRead: true,
+    autoTyping: true,
+    autoBio: true,
     autoSticker: false,
-    autoReact: false,
-    autoReactMode: 'bot', // set bot or all via cmd
+    autoReact: true,
+    autoReactMode: 'all', // set bot or all via cmd
     autoDownload: false,
     
     // Group Settings Defaults
@@ -36,7 +36,7 @@ module.exports = {
       antitagAction: 'delete',
       antiall: false, // Owner only - blocks all messages from non-admins
       antiviewonce: false,
-      antibot: false,
+      antibot: true,
       anticall: false, // Anti-call feature
       antigroupmention: false, // Anti-group mention feature
       antigroupmentionAction: 'delete', // 'delete', 'kick'
