@@ -1,12 +1,12 @@
 <div align="center">
 
-## Knight Bot Mini
+## LAKSH-MD
 
 [![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-<img src="utils/bot_image.jpg" alt="Knight Bot Mini" width="260">
+<img src="utils/bot_image.jpg" alt="LAKSH-MD" width="260">
 
 </div>
 
@@ -32,7 +32,7 @@ All commands and the overall structure are written in a way that makes customiza
 
 <div align="center">
 
-<a href="https://github.com/mruniquehacker/Knightbot-Mini/fork" target="_blank">
+<a href="https://github.com/SADIESHA/LAKSH-M/fork" target="_blank">
   <img src="https://img.shields.io/badge/Fork%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
 </a>
 
@@ -154,7 +154,7 @@ When the bot starts:
 
 ## 🙏 Credits
 
-- **Mr Unique Hacker** – Main developer & maintainer  
+- **Mr Laksh** – Main developer & maintainer  
 - **Baileys** – WhatsApp Web API library (`@whiskeysockets/baileys`)  
 - Other open‑source libraries listed in `package.json`
 
@@ -164,7 +164,7 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+<a href="https://buymeacoffee.com/SADIESHA" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
 </a>
 
